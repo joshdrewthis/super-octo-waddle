@@ -1,7 +1,7 @@
 let circles = [];
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
   
   print("Introduction to Programming 1, Final, Josh Lin, 05/03/23");
